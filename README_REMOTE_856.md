@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# git-study .........
-# 수정
 # git-study
 
 ## Lorem ipsumㅇㅈㅇㅈㅇㅈㅇㅈㅇㅈ
