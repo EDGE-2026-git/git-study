@@ -8,4 +8,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 드디어 push가 되는...
 
-1이게 되는 거 맞아요??????
+1:이게 되는 거 맞아요??????
