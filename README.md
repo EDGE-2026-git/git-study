@@ -10,4 +10,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 1이게 되는 거 맞아요??????
 
-# 지금부터 README.md는 무적컴공 22학번 대박완이 지배한다
+#DevLucidDreamer 왔다감
+1:이게 되는 거 맞아요??????
+
+되는 거 맞습니다~
+
+force push 해도 되나요?
+
+alkon 특검하라
