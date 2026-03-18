@@ -12,19 +12,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #DevLucidDreamer 왔다감
 1:이게 되는 거 맞아요??????
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+force push 해도 되나요?
+force push 했을 때 깃 변경점이 어떻게 되는지 (왜 하면 안되는지) 보여주세요
 
 일본은 발걸음을 전기로 변환하고 있습니다!
 일본에서는 특수한 압전 세라믹 타일을 사용해 사람들의 발걸음에서 발생하는 압력을 전기로 변환합니다.
