@@ -15,3 +15,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 되는 거 맞습니다~
 
 force push 해도 되나요?
+force push 했을 때 깃 변경점이 어떻게 되는지 (왜 하면 안되는지) 보여주세요
