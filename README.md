@@ -13,3 +13,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 1:이게 되는 거 맞아요??????
 
 되는 거 맞습니다~
+
+force push 해도 되나요?
